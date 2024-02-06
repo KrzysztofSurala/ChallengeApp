@@ -1,6 +1,6 @@
 ﻿var name = "Ewa";
 var sex = "K";
-var age = 50;
+var age = 60;
 
 if (age < 30 && sex == "K")
 {
